@@ -6,13 +6,22 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
+<<<<<<< HEAD
 import { DescriptPage } from '../pages/DescriptPage/DescriptPage';
+=======
+import { MenuPage } from '../pages/MenuPage/menu';
+
+>>>>>>> 862f6818e579000a2896b8e086331374d2355098
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
+<<<<<<< HEAD
     DescriptPage
+=======
+    MenuPage
+>>>>>>> 862f6818e579000a2896b8e086331374d2355098
   ],
   imports: [
     BrowserModule,
@@ -22,7 +31,11 @@ import { DescriptPage } from '../pages/DescriptPage/DescriptPage';
   entryComponents: [
     MyApp,
     HomePage,
+<<<<<<< HEAD
     DescriptPage
+=======
+    MenuPage
+>>>>>>> 862f6818e579000a2896b8e086331374d2355098
   ],
   providers: [
     StatusBar,
