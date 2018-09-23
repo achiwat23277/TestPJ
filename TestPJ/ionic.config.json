@@ -1,0 +1,7 @@
+{
+  "name": "TestPJ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
